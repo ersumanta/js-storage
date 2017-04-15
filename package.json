@@ -1,0 +1,23 @@
+{
+  "name": "js-storage",
+  "version": "1.0.0",
+  "description": "A Simple JS Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersumanta/js-storage.git"
+  },
+  "keywords": [
+    "JS",
+    "Storage"
+  ],
+  "author": "Sumanta Sarkar <sumanta.sr@gmail.com> (http://nextgn.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ersumanta/js-storage/issues"
+  },
+  "homepage": "https://github.com/ersumanta/js-storage#readme"
+}

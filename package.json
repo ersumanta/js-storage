@@ -2,9 +2,10 @@
   "name": "simple-js-storage",
   "version": "1.0.1",
   "description": "A Simple JS Storage",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel --presets es2015 -d src/ src/"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,9 @@
   "homepage": "https://github.com/ersumanta/js-storage#readme",
   "dependencies": {
     "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
   }
 }

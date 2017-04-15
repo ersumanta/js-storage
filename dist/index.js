@@ -13,7 +13,7 @@ class JsStorage {
   }
 
   static getAndClear(id) {
-    let oldVal = _.clone(this.obj[id])
+    let oldVal = _.clone(this.obj[id]);
     delete this.obj[id];
     return oldVal;
   }

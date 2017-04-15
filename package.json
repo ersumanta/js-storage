@@ -1,6 +1,6 @@
 {
   "name": "simple-js-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple JS Storage",
   "main": "index.js",
   "scripts": {

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ersumanta/js-storage/issues"
   },
-  "homepage": "https://github.com/ersumanta/js-storage#readme"
+  "homepage": "https://github.com/ersumanta/js-storage#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }

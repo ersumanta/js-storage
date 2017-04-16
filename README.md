@@ -9,9 +9,11 @@ npm install simple-js-storage --save
 
 ### Initialisation
 // ES 5
+
 var jsStorage = require("simple-js-storage");
 
 // or ES 6
+
 import jsStorage from "simple-js-storage";
 
 ### Set an Item to storage
